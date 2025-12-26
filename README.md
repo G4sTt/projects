@@ -1,2 +1,7 @@
 # projects
-my projects on python
+Первая моя текствоя игра --- rpg_game1
+* .show_health() --- показать здоровье
+* .attack() --- атаковать
+* .fly() --- полет ангела
+* .use_ultimate() --- орк атакует ангела
+* .heal() --- хилка ангела

@@ -1,4 +1,4 @@
-# projects
+# rpg_game1
 Первая моя текствоя игра --- rpg_game1
 * .show_health() --- показать здоровье
 * .attack() --- атаковать
